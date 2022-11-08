@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "link-lock-master"
+		}
+	],
+	"settings": {
+		"simpleBrowser.focusLockIndicator.enabled": true
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+		
+		
+		]
+	}
+}
